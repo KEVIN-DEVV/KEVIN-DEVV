@@ -1,3 +1,4 @@
+[![MasterHead](https://imgs.search.brave.com/WVn6T4VuO5pfJ9N4QhpA4ylTk0fr_yA8jhOse-s-R44/rs:fit:932:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5C/eUxsM1ZxdlF4aHJ5/SjhkTk5vTGRBSGFE/eCZwaWQ9QXBp)
 <h1 align="center">Hi 👋, I'm Kevin Kimutai</h1>
 <h3 align="center">A passionate fullstack developer, DevSecOps and Cloud Infrastructure Engineer from Kenya.</h3>
 <img align=”right” alt=”coding” width=”400” src”https://imgs.search.brave.com/u6moY1EDz86xGI_YZjq-BMFTqj0ZJIYXDr2D-D8zMA0/rs:fit:920:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5E/b1BXU0hqSm5kREF6/bWdSSnBrVmpBSGFE/MCZwaWQ9QXBp”>
