@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Kimutai
 
-🎯 **Experienced IT Auditor @ KPMG | AI Champion | Azure AI Engineer | Responsible AI Advocate**
+🎯 **Experienced IT Auditor @ KPMG East Africa| Audit AI Champion | Azure AI Engineer | Responsible AI Advocate**
 
 Welcome to my GitHub! I'm a passionate and multi-skilled tech professional with deep experience in **IT Audit, Cloud Security, Responsible AI**, and **AI for Good**. I thrive at the intersection of **technology, ethics, and innovation**, helping businesses and society adopt AI responsibly.
 
