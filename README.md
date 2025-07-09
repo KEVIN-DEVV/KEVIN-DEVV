@@ -1,18 +1,73 @@
-[![MasterHead](https://imgs.search.brave.com/WVn6T4VuO5pfJ9N4QhpA4ylTk0fr_yA8jhOse-s-R44/rs:fit:932:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5C/eUxsM1ZxdlF4aHJ5/SjhkTk5vTGRBSGFE/eCZwaWQ9QXBp)
-<h1 align="center">Hi 👋, I'm Kevin Kimutai</h1>
-<h3 align="center">A passionate full-stack developer, DevSecOps, and Cloud Infrastructure Engineer from Kenya. I love learning new technologies, especially in the realm of Artificial Intelligence and Machine learning. My prowess in different cloud platforms including Microsoft Azure and AWS gives me the upper hand in applying these technologies.  </h3>
-<img align=”right” alt=”coding” width=”400” src”https://imgs.search.brave.com/u6moY1EDz86xGI_YZjq-BMFTqj0ZJIYXDr2D-D8zMA0/rs:fit:920:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5E/b1BXU0hqSm5kREF6/bWdSSnBrVmpBSGFE/MCZwaWQ9QXBp”>
-- 📝 I regularly write articles on [bit.ly/3E2Qreq](bit.ly/3E2Qreq)
+# 👋 Hi, I'm Kevin Kimutai
 
-- 💬 Ask me about **ReactJS, Ruby, Ruby on Rails, Javascript**
+🎯 **Experienced IT Auditor @ KPMG | AI Champion | Azure AI Engineer | Responsible AI Advocate**
 
-- 📫 How to reach me **kyevenkims@gmail.com**
+Welcome to my GitHub! I'm a passionate and multi-skilled tech professional with deep experience in **IT Audit, Cloud Security, Responsible AI**, and **AI for Good**. I thrive at the intersection of **technology, ethics, and innovation**, helping businesses and society adopt AI responsibly.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/twitter.com/kevinkims3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/kevinkims3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kevinkimutai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevinkimutai/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👨‍💼 About Me
+
+- 🧾 **Experienced IT Auditor at KPMG**, ensuring systems security, compliance, and risk management in regulated environments.
+- 🤖 **AI Champion** — leading internal AI initiatives and responsible AI integration across audits and business functions.
+- 🌐 Founder of [**RAI Alliance**](https://linkedin.com/company/rai-alliance), where I lead AI awareness programs for **kids, students, and developers**.
+- 🧠 Builder of GenAI and Responsible AI training content for corporates and educational outreach.
+- 🌍 Passionate about using AI to drive **equity, transparency, and impact**.
+
+---
+
+## 🏆 Certifications
+
+- ✅ **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+- ✅ **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- ✅ **Microsoft Certified: Security Operations Analyst Associate (AZ-500)**
+- ✅ **IBM Cybersecurity Analyst Professional Certificate**
+- ✅ **Generative AI (OpenAI / Azure AI & custom LLMs)**
+
+---
+
+## 🔧 Tech Stack & Skills
+
+**Languages**  
+`React` | `JavaScript` | `SQL` | `HTML/CSS`
+
+**Cloud & Platforms**  
+`Microsoft Azure` | `Azure OpenAI` | `Microsoft Sentinel` | `AWS (Foundational)` | `Power BI` | `Git`
+
+**AI & Tools**  
+`ChatGPT` | `Claude` | `LangChain` | `OpenAI API` | `FastAPI` | `Flask` | `LLMs` | `Prompt Engineering`
+
+**Domains**  
+- IT Audit & Risk Management  
+- Cybersecurity Operations  
+- Responsible AI & AI Governance  
+- Generative AI in Business  
+- Data Privacy & Compliance (GDPR, ISO)
+
+---
+
+## 🔍 Featured Projects
+
+### 🧑‍⚖️ **RAI Alliance**
+Advocating for and teaching **Responsible AI** across Africa — with tailored curriculums for **students, developers, and educators**.
+
+### 🔍 **AuditMate AI**
+A GenAI assistant to support auditors in reviewing evidence, performing re-performance tests, and boosting efficiency in the audit lifecycle.
+
+### 🌐 **AI for Web Dev (Age 9–18)**
+A fun, practical curriculum helping kids use AI tools like ChatGPT to build smart websites — responsibly and creatively.
+
+---
+
+## 💬 Let’s Connect
+
+- 📇 [LinkedIn](https://www.linkedin.com/in/kevin-kimutai/)
+- 🌍 [RAI Alliance](https://linkedin.com/company/rai-alliance)
+- ✉️ kimutaikevin96@gmail.com
+- 📌 Nairobi, Kenya
+
+---
+
+> _“Responsible AI isn’t just a policy — it’s a mindset. And I’m here to empower the next generation to use AI wisely.”_
+
+🧠 Let’s build a future where AI is **trusted, ethical, and human-centered**.
