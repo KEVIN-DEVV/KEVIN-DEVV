@@ -68,7 +68,6 @@ A GenAI assistant to support auditors in reviewing evidence, performing re-perfo
 
 - 📇 [LinkedIn](https://www.linkedin.com/in/kevin-kimutai/)
 - 🌍 [RAI Alliance](https://linkedin.com/company/rai-alliance)
-- ✉️ kimutaikevin96@gmail.com
 - 📌 Nairobi, Kenya
 
 ---
