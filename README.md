@@ -2,7 +2,9 @@
 
 🎯 **Experienced IT Auditor @ KPMG East Africa| Audit AI Champion | Azure AI Engineer | Responsible AI Advocate**
 
-Welcome to my GitHub! I'm a passionate and multi-skilled tech professional with deep experience in **IT Audit, Cloud Security, Responsible AI**, and **AI for Good**. I thrive at the intersection of **technology, ethics, and innovation**, helping businesses and society adopt AI responsibly.
+Welcome to my GitHub! I am a software engineer, AI advocate, and IT auditor currently working with KPMG East Africa. I bring a rare fusion of technical depth in AI and cloud systems, combined with an auditor's precision in managing security and compliance risks. My career focuses on the intersection of AI, cybersecurity, and audit—where I specialize in evaluating AI systems against ISO standards like ISO 27001 and the emerging ISO 42001 (AI Management Systems).
+As an AI Champion at KPMG and the founder of the Responsible AI Alliance (RAI) Alliance, I have trained professionals and youth on responsible AI, assessed AI-enabled platforms, and led compliance reviews of systems integrating frontier technologies. With certifications in Microsoft Azure AI and Security, I aim to align intelligent systems with risk-aware governance models, ensuring they operate safely, ethically, and transparently.
+.
 
 ---
 
@@ -54,8 +56,8 @@ Advocating for and teaching **Responsible AI** across Africa — with tailored c
 ### 🔍 **AuditMate AI**
 A GenAI assistant to support auditors in reviewing evidence, performing re-performance tests, and boosting efficiency in the audit lifecycle.
 
-### 🌐 **AI for Web Dev (Age 9–18)**
-A fun, practical curriculum helping kids use AI tools like ChatGPT to build smart websites — responsibly and creatively.
+### 🌐 **AI Loan Scoring Model**
+•	Built an end-to-end AI-powered loan application platform using Azure AI Foundry, integrating intelligent agents for applicant data analysis and risk-based scoring. The system, developed with React.js, Node.js, and Azure backend APIs, was designed for scalability, transparency, and alignment with Responsible AI principles.
 
 ---
 
