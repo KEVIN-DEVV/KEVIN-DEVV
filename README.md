@@ -22,9 +22,12 @@ As an AI Champion at KPMG and the founder of the Responsible AI Alliance (RAI) A
 
 - ✅ **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
 - ✅ **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- ✅ **Artificial Intelligence Fundamentals: IBM**
+- ✅	**Microsoft Security Operations Analyst (SC-200)- : Microsoft**                                                 
 - ✅ **Microsoft Certified: Security Operations Analyst Associate (AZ-500)**
-- ✅ **IBM Cybersecurity Analyst Professional Certificate**
 - ✅ **Generative AI (OpenAI / Azure AI & custom LLMs)**
+- ✅	**Cloud & Network Security: (Cybershujaa Program: USIU )**
+- ✅	**Certificate of Cloud and Security Knowledge- Cisco:**                                                                                            
 
 ---
 
